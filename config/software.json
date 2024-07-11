@@ -1,8 +1,8 @@
 {
-    "demo.exe": {
+    : {
         "help": "Demonstrate some rendering features",
         "clear": true,
-        "message": [
+        : [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
             "<img src=config/network/11.152.9.6/tech.jpg style='width: 10rem' class=glitch>",
@@ -11,10 +11,10 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "cdata.exe": {
-        "protection": ["admin"],
+    "": {
+        : ["admin"],
         "delayed": 2000,
-        "message": [
+        : [
             "Corrupting data.",
             "Corrupting data..",
             "Corrupting data...",
@@ -32,7 +32,7 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-    "artifact": {},
-    "decrypt": {},
-    "identify": {}
+    : {},
+   : {},
+     {}
 }
